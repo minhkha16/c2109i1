@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\c2109i1\CShap\SwithCase\bin\Debug\net7.0\SwithCase.exe
+C:\Users\ADMIN\source\repos\c2109i1\CShap\SwithCase\bin\Debug\net7.0\SwithCase.deps.json
+C:\Users\ADMIN\source\repos\c2109i1\CShap\SwithCase\bin\Debug\net7.0\SwithCase.runtimeconfig.json
+C:\Users\ADMIN\source\repos\c2109i1\CShap\SwithCase\bin\Debug\net7.0\SwithCase.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\SwithCase\bin\Debug\net7.0\SwithCase.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CShap\SwithCase\obj\Debug\net7.0\SwithCase.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\SwithCase\obj\Debug\net7.0\SwithCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\c2109i1\CShap\SwithCase\obj\Debug\net7.0\SwithCase.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\SwithCase\obj\Debug\net7.0\SwithCase.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\c2109i1\CShap\SwithCase\obj\Debug\net7.0\SwithCase.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\SwithCase\obj\Debug\net7.0\SwithCase.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\SwithCase\obj\Debug\net7.0\refint\SwithCase.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\SwithCase\obj\Debug\net7.0\SwithCase.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CShap\SwithCase\obj\Debug\net7.0\SwithCase.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\SwithCase\obj\Debug\net7.0\ref\SwithCase.dll

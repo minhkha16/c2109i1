@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\c2109i1\CShap\foreachWhile\bin\Debug\net7.0\foreachWhile.exe
+C:\Users\ADMIN\source\repos\c2109i1\CShap\foreachWhile\bin\Debug\net7.0\foreachWhile.deps.json
+C:\Users\ADMIN\source\repos\c2109i1\CShap\foreachWhile\bin\Debug\net7.0\foreachWhile.runtimeconfig.json
+C:\Users\ADMIN\source\repos\c2109i1\CShap\foreachWhile\bin\Debug\net7.0\foreachWhile.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\foreachWhile\bin\Debug\net7.0\foreachWhile.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CShap\foreachWhile\obj\Debug\net7.0\foreachWhile.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\foreachWhile\obj\Debug\net7.0\foreachWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\c2109i1\CShap\foreachWhile\obj\Debug\net7.0\foreachWhile.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\foreachWhile\obj\Debug\net7.0\foreachWhile.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\c2109i1\CShap\foreachWhile\obj\Debug\net7.0\foreachWhile.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\foreachWhile\obj\Debug\net7.0\foreachWhile.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\foreachWhile\obj\Debug\net7.0\refint\foreachWhile.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\foreachWhile\obj\Debug\net7.0\foreachWhile.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CShap\foreachWhile\obj\Debug\net7.0\foreachWhile.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\foreachWhile\obj\Debug\net7.0\ref\foreachWhile.dll
