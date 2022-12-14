@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\c2109i1\CShap\Buoi2new\bin\Debug\net7.0\Buoi2new.exe
+C:\Users\ADMIN\source\repos\c2109i1\CShap\Buoi2new\bin\Debug\net7.0\Buoi2new.deps.json
+C:\Users\ADMIN\source\repos\c2109i1\CShap\Buoi2new\bin\Debug\net7.0\Buoi2new.runtimeconfig.json
+C:\Users\ADMIN\source\repos\c2109i1\CShap\Buoi2new\bin\Debug\net7.0\Buoi2new.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\Buoi2new\bin\Debug\net7.0\Buoi2new.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CShap\Buoi2new\obj\Debug\net7.0\Buoi2new.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\Buoi2new\obj\Debug\net7.0\Buoi2new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\c2109i1\CShap\Buoi2new\obj\Debug\net7.0\Buoi2new.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\Buoi2new\obj\Debug\net7.0\Buoi2new.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\c2109i1\CShap\Buoi2new\obj\Debug\net7.0\Buoi2new.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\Buoi2new\obj\Debug\net7.0\Buoi2new.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\Buoi2new\obj\Debug\net7.0\refint\Buoi2new.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\Buoi2new\obj\Debug\net7.0\Buoi2new.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CShap\Buoi2new\obj\Debug\net7.0\Buoi2new.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\Buoi2new\obj\Debug\net7.0\ref\Buoi2new.dll

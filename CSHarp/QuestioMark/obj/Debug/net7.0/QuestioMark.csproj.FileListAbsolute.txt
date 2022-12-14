@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\c2109i1\CSHarp\QuestioMark\obj\Debug\net7.0\QuestioMark.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\c2109i1\CSHarp\QuestioMark\obj\Debug\net7.0\QuestioMark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\c2109i1\CSHarp\QuestioMark\obj\Debug\net7.0\QuestioMark.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CSHarp\QuestioMark\obj\Debug\net7.0\QuestioMark.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\c2109i1\CSHarp\QuestioMark\obj\Debug\net7.0\QuestioMark.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CSHarp\QuestioMark\bin\Debug\net7.0\QuestioMark.exe
+C:\Users\ADMIN\source\repos\c2109i1\CSHarp\QuestioMark\bin\Debug\net7.0\QuestioMark.deps.json
+C:\Users\ADMIN\source\repos\c2109i1\CSHarp\QuestioMark\bin\Debug\net7.0\QuestioMark.runtimeconfig.json
+C:\Users\ADMIN\source\repos\c2109i1\CSHarp\QuestioMark\bin\Debug\net7.0\QuestioMark.dll
+C:\Users\ADMIN\source\repos\c2109i1\CSHarp\QuestioMark\bin\Debug\net7.0\QuestioMark.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CSHarp\QuestioMark\obj\Debug\net7.0\QuestioMark.dll
+C:\Users\ADMIN\source\repos\c2109i1\CSHarp\QuestioMark\obj\Debug\net7.0\refint\QuestioMark.dll
+C:\Users\ADMIN\source\repos\c2109i1\CSHarp\QuestioMark\obj\Debug\net7.0\QuestioMark.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CSHarp\QuestioMark\obj\Debug\net7.0\QuestioMark.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\c2109i1\CSHarp\QuestioMark\obj\Debug\net7.0\ref\QuestioMark.dll
