@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buoi2new", "Buoi2new\Buoi2n
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwithCase", "SwithCase\SwithCase.csproj", "{47659213-EEA5-4C7D-98F3-E613EBEBBD2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreachWhile", "foreachWhile\foreachWhile.csproj", "{001E776C-FB1C-49EF-AE59-D452E53FA9CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "foreachWhile", "foreachWhile\foreachWhile.csproj", "{001E776C-FB1C-49EF-AE59-D452E53FA9CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOut", "RefOut\RefOut.csproj", "{4B41CFED-1FD0-4A99-BBB3-2D13BC6C5083}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefOut", "RefOut\RefOut.csproj", "{4B41CFED-1FD0-4A99-BBB3-2D13BC6C5083}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexTryOarse", "RegexTryOarse\RegexTryOarse.csproj", "{C51E7DE0-AF21-4E54-A04C-F7A8FF5F29ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4B41CFED-1FD0-4A99-BBB3-2D13BC6C5083}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B41CFED-1FD0-4A99-BBB3-2D13BC6C5083}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B41CFED-1FD0-4A99-BBB3-2D13BC6C5083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C51E7DE0-AF21-4E54-A04C-F7A8FF5F29ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51E7DE0-AF21-4E54-A04C-F7A8FF5F29ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51E7DE0-AF21-4E54-A04C-F7A8FF5F29ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51E7DE0-AF21-4E54-A04C-F7A8FF5F29ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

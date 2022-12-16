@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\c2109i1\CShap\RegexTryOarse\bin\Debug\net7.0\RegexTryOarse.exe
+C:\Users\ADMIN\source\repos\c2109i1\CShap\RegexTryOarse\bin\Debug\net7.0\RegexTryOarse.deps.json
+C:\Users\ADMIN\source\repos\c2109i1\CShap\RegexTryOarse\bin\Debug\net7.0\RegexTryOarse.runtimeconfig.json
+C:\Users\ADMIN\source\repos\c2109i1\CShap\RegexTryOarse\bin\Debug\net7.0\RegexTryOarse.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\RegexTryOarse\bin\Debug\net7.0\RegexTryOarse.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CShap\RegexTryOarse\obj\Debug\net7.0\RegexTryOarse.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\RegexTryOarse\obj\Debug\net7.0\RegexTryOarse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\c2109i1\CShap\RegexTryOarse\obj\Debug\net7.0\RegexTryOarse.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\RegexTryOarse\obj\Debug\net7.0\RegexTryOarse.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\c2109i1\CShap\RegexTryOarse\obj\Debug\net7.0\RegexTryOarse.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\RegexTryOarse\obj\Debug\net7.0\RegexTryOarse.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\RegexTryOarse\obj\Debug\net7.0\refint\RegexTryOarse.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\RegexTryOarse\obj\Debug\net7.0\RegexTryOarse.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CShap\RegexTryOarse\obj\Debug\net7.0\RegexTryOarse.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\RegexTryOarse\obj\Debug\net7.0\ref\RegexTryOarse.dll
