@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopPolymophismOverloading",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopPolymophismOveride", "OopPolymophismOveride\OopPolymophismOveride.csproj", "{2C9AA094-55D9-4D20-96EF-995ACCAD55CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OoPolymoPhismInterface", "OoPolymoPhismInterface\OoPolymoPhismInterface.csproj", "{267A2045-99B9-4FE7-96C8-898BFF5223F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{2C9AA094-55D9-4D20-96EF-995ACCAD55CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C9AA094-55D9-4D20-96EF-995ACCAD55CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C9AA094-55D9-4D20-96EF-995ACCAD55CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267A2045-99B9-4FE7-96C8-898BFF5223F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267A2045-99B9-4FE7-96C8-898BFF5223F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267A2045-99B9-4FE7-96C8-898BFF5223F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267A2045-99B9-4FE7-96C8-898BFF5223F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

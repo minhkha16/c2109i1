@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OoPolymoPhismInterface\bin\Debug\net7.0\OoPolymoPhismInterface.exe
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OoPolymoPhismInterface\bin\Debug\net7.0\OoPolymoPhismInterface.deps.json
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OoPolymoPhismInterface\bin\Debug\net7.0\OoPolymoPhismInterface.runtimeconfig.json
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OoPolymoPhismInterface\bin\Debug\net7.0\OoPolymoPhismInterface.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OoPolymoPhismInterface\bin\Debug\net7.0\OoPolymoPhismInterface.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OoPolymoPhismInterface\obj\Debug\net7.0\OoPolymoPhismInterface.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OoPolymoPhismInterface\obj\Debug\net7.0\OoPolymoPhismInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OoPolymoPhismInterface\obj\Debug\net7.0\OoPolymoPhismInterface.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OoPolymoPhismInterface\obj\Debug\net7.0\OoPolymoPhismInterface.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OoPolymoPhismInterface\obj\Debug\net7.0\OoPolymoPhismInterface.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OoPolymoPhismInterface\obj\Debug\net7.0\OoPolymoPhismInterface.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OoPolymoPhismInterface\obj\Debug\net7.0\refint\OoPolymoPhismInterface.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OoPolymoPhismInterface\obj\Debug\net7.0\OoPolymoPhismInterface.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OoPolymoPhismInterface\obj\Debug\net7.0\OoPolymoPhismInterface.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OoPolymoPhismInterface\obj\Debug\net7.0\ref\OoPolymoPhismInterface.dll
