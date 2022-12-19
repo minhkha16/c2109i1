@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OopPolymophismOveride\bin\Debug\net7.0\OopPolymophismOveride.exe
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OopPolymophismOveride\bin\Debug\net7.0\OopPolymophismOveride.deps.json
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OopPolymophismOveride\bin\Debug\net7.0\OopPolymophismOveride.runtimeconfig.json
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OopPolymophismOveride\bin\Debug\net7.0\OopPolymophismOveride.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OopPolymophismOveride\bin\Debug\net7.0\OopPolymophismOveride.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OopPolymophismOveride\obj\Debug\net7.0\OopPolymophismOveride.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OopPolymophismOveride\obj\Debug\net7.0\OopPolymophismOveride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OopPolymophismOveride\obj\Debug\net7.0\OopPolymophismOveride.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OopPolymophismOveride\obj\Debug\net7.0\OopPolymophismOveride.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OopPolymophismOveride\obj\Debug\net7.0\OopPolymophismOveride.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OopPolymophismOveride\obj\Debug\net7.0\OopPolymophismOveride.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OopPolymophismOveride\obj\Debug\net7.0\refint\OopPolymophismOveride.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OopPolymophismOveride\obj\Debug\net7.0\OopPolymophismOveride.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OopPolymophismOveride\obj\Debug\net7.0\OopPolymophismOveride.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\OopPolymophismOveride\obj\Debug\net7.0\ref\OopPolymophismOveride.dll

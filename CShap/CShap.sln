@@ -11,17 +11,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "foreachWhile", "foreachWhil
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefOut", "RefOut\RefOut.csproj", "{4B41CFED-1FD0-4A99-BBB3-2D13BC6C5083}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexTryOarse", "RegexTryOarse\RegexTryOarse.csproj", "{C51E7DE0-AF21-4E54-A04C-F7A8FF5F29ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegexTryOarse", "RegexTryOarse\RegexTryOarse.csproj", "{C51E7DE0-AF21-4E54-A04C-F7A8FF5F29ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartiaClass", "PartiaClass\PartiaClass.csproj", "{8ED27F84-CFEE-4878-80CD-251BBBA05A29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartiaClass", "PartiaClass\PartiaClass.csproj", "{8ED27F84-CFEE-4878-80CD-251BBBA05A29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgumentAndParsms", "ArgumentAndParsms\ArgumentAndParsms.csproj", "{7B79C36E-CD20-46ED-A9A3-592B0ADCC073}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArgumentAndParsms", "ArgumentAndParsms\ArgumentAndParsms.csproj", "{7B79C36E-CD20-46ED-A9A3-592B0ADCC073}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopAbstraction", "OopAbstraction\OopAbstraction.csproj", "{59D32E19-6E1B-4105-B5FF-31B05F56E09E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopAbstraction", "OopAbstraction\OopAbstraction.csproj", "{59D32E19-6E1B-4105-B5FF-31B05F56E09E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopEncapsulation", "OopEncapsulation\OopEncapsulation.csproj", "{4D1203D1-C734-4260-9EF3-2189D23374E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopEncapsulation", "OopEncapsulation\OopEncapsulation.csproj", "{4D1203D1-C734-4260-9EF3-2189D23374E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopEncapsulationCont", "OopEncapsulationCont\OopEncapsulationCont.csproj", "{AB5B2C2C-8F88-46DE-A80A-56694026DCB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopEncapsulationCont", "OopEncapsulationCont\OopEncapsulationCont.csproj", "{AB5B2C2C-8F88-46DE-A80A-56694026DCB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopEncapsulationPropety", "OopEncapsulationPropety\OopEncapsulationPropety.csproj", "{FD8C97E5-B089-470F-84F6-38BB239A6CFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopPolymophismOverloading", "OopPolymophismOverloading\OopPolymophismOverloading.csproj", "{23147794-EE9F-4FE2-B1F6-B10476489092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopPolymophismOveride", "OopPolymophismOveride\OopPolymophismOveride.csproj", "{2C9AA094-55D9-4D20-96EF-995ACCAD55CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +75,18 @@ Global
 		{AB5B2C2C-8F88-46DE-A80A-56694026DCB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB5B2C2C-8F88-46DE-A80A-56694026DCB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB5B2C2C-8F88-46DE-A80A-56694026DCB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD8C97E5-B089-470F-84F6-38BB239A6CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8C97E5-B089-470F-84F6-38BB239A6CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8C97E5-B089-470F-84F6-38BB239A6CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8C97E5-B089-470F-84F6-38BB239A6CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23147794-EE9F-4FE2-B1F6-B10476489092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23147794-EE9F-4FE2-B1F6-B10476489092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23147794-EE9F-4FE2-B1F6-B10476489092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23147794-EE9F-4FE2-B1F6-B10476489092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C9AA094-55D9-4D20-96EF-995ACCAD55CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9AA094-55D9-4D20-96EF-995ACCAD55CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9AA094-55D9-4D20-96EF-995ACCAD55CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9AA094-55D9-4D20-96EF-995ACCAD55CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
