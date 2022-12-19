@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\c2109i1\CShap\PartiaClass\bin\Debug\net7.0\PartiaClass.exe
+C:\Users\ADMIN\source\repos\c2109i1\CShap\PartiaClass\bin\Debug\net7.0\PartiaClass.deps.json
+C:\Users\ADMIN\source\repos\c2109i1\CShap\PartiaClass\bin\Debug\net7.0\PartiaClass.runtimeconfig.json
+C:\Users\ADMIN\source\repos\c2109i1\CShap\PartiaClass\bin\Debug\net7.0\PartiaClass.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\PartiaClass\bin\Debug\net7.0\PartiaClass.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CShap\PartiaClass\obj\Debug\net7.0\PartiaClass.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\PartiaClass\obj\Debug\net7.0\PartiaClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\c2109i1\CShap\PartiaClass\obj\Debug\net7.0\PartiaClass.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\PartiaClass\obj\Debug\net7.0\PartiaClass.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\c2109i1\CShap\PartiaClass\obj\Debug\net7.0\PartiaClass.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\PartiaClass\obj\Debug\net7.0\PartiaClass.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\PartiaClass\obj\Debug\net7.0\refint\PartiaClass.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\PartiaClass\obj\Debug\net7.0\PartiaClass.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CShap\PartiaClass\obj\Debug\net7.0\PartiaClass.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\PartiaClass\obj\Debug\net7.0\ref\PartiaClass.dll

@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "OopEncapsulationCont/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/OopEncapsulationCont.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OopEncapsulationCont.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OopEncapsulationCont/1.0.0": {
+      "type": "project",
+      "path": "../OopEncapsulationCont/OopEncapsulationCont.csproj",
+      "msbuildProject": "../OopEncapsulationCont/OopEncapsulationCont.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "OopEncapsulationCont >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\c2109i1\\CShap\\OopEncapsulation\\OopEncapsulation.csproj",
+      "projectName": "OopEncapsulation",
+      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\c2109i1\\CShap\\OopEncapsulation\\OopEncapsulation.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\c2109i1\\CShap\\OopEncapsulation\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\ADMIN\\source\\repos\\c2109i1\\CShap\\OopEncapsulationCont\\OopEncapsulationCont.csproj": {
+              "projectPath": "C:\\Users\\ADMIN\\source\\repos\\c2109i1\\CShap\\OopEncapsulationCont\\OopEncapsulationCont.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

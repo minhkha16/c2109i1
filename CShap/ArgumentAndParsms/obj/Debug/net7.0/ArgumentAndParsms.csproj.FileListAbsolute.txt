@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\c2109i1\CShap\ArgumentAndParsms\bin\Debug\net7.0\ArgumentAndParsms.exe
+C:\Users\ADMIN\source\repos\c2109i1\CShap\ArgumentAndParsms\bin\Debug\net7.0\ArgumentAndParsms.deps.json
+C:\Users\ADMIN\source\repos\c2109i1\CShap\ArgumentAndParsms\bin\Debug\net7.0\ArgumentAndParsms.runtimeconfig.json
+C:\Users\ADMIN\source\repos\c2109i1\CShap\ArgumentAndParsms\bin\Debug\net7.0\ArgumentAndParsms.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\ArgumentAndParsms\bin\Debug\net7.0\ArgumentAndParsms.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CShap\ArgumentAndParsms\obj\Debug\net7.0\ArgumentAndParsms.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\ArgumentAndParsms\obj\Debug\net7.0\ArgumentAndParsms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\c2109i1\CShap\ArgumentAndParsms\obj\Debug\net7.0\ArgumentAndParsms.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\ArgumentAndParsms\obj\Debug\net7.0\ArgumentAndParsms.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\c2109i1\CShap\ArgumentAndParsms\obj\Debug\net7.0\ArgumentAndParsms.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\ArgumentAndParsms\obj\Debug\net7.0\ArgumentAndParsms.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\ArgumentAndParsms\obj\Debug\net7.0\refint\ArgumentAndParsms.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\ArgumentAndParsms\obj\Debug\net7.0\ArgumentAndParsms.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CShap\ArgumentAndParsms\obj\Debug\net7.0\ArgumentAndParsms.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\ArgumentAndParsms\obj\Debug\net7.0\ref\ArgumentAndParsms.dll
