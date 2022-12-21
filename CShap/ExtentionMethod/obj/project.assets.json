@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\c2109i1\\CShap\\OoPolymoPhismInterface\\OoPolymoPhismInterface.csproj",
-      "projectName": "OoPolymoPhismInterface",
-      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\c2109i1\\CShap\\OoPolymoPhismInterface\\OoPolymoPhismInterface.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\c2109i1\\CShap\\ExtentionMethod\\ExtentionMethod.csproj",
+      "projectName": "ExtentionMethod",
+      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\c2109i1\\CShap\\ExtentionMethod\\ExtentionMethod.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\c2109i1\\CShap\\OoPolymoPhismInterface\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\c2109i1\\CShap\\ExtentionMethod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
