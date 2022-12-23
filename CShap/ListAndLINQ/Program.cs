@@ -98,6 +98,37 @@ list.ForEach(Console.WriteLine);
 list.ForEach(
         stu =>
         {
-
+            if (stu.RollNumber > 2)
+            {
+                Console.WriteLine(stu);
+            }
         }
     );
+// kết hợp lamda với phương thức có sẵn của list
+//list.Where(stu => stu.RollNumber > 2).ToList().ForEach(Console.WriteLine);
+
+//var r = from stu in list
+//        where stu.RollNumber > 2
+//        select new //anonymustype 
+//        {
+//            StudentDetail = $"{stu.RollNumber} : {stu.FullName}", 
+//            StudentRoom = $"{stu.Section} = {stu.HostelNumber}"
+//        };
+//r.ToList().ForEach(Console.WriteLine);
+
+list.Select(stu => new
+{
+    StudentDetail = $"{stu.RollNumber} : {stu.FullName}",
+    StudentRoom = $"{stu.Section} = {stu.HostelNumber}"
+}).ToList().ForEach(Console.WriteLine);
+// lần đầu tiên thực thi trên server và trả kết quả về bộ nhớ
+IEnumerable<Student> i = from stu in list where stu.RollNumber > 2 select stu;
+//là bộ nhớ loại bỏ chỉ lấy ư dòng đầu tiên
+i = i.Take(2);
+//===========
+IQueryable<Student> u = from stu in list.AsQueryable() where stu.RollNumber > 2  select stu;
+u = u.Take(2);
+//sẽ chạy lên server dùng dễ phân trang với loading khi cuộn trang 
+// ------------------------------
+var a = from stu in list where stu.RollNumber > 2 select stu;
+a.ToList().ForEach(Console.WriteLine);

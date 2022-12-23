@@ -31,9 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopPolymophismOveride", "Oo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OoPolymoPhismInterface", "OoPolymoPhismInterface\OoPolymoPhismInterface.csproj", "{267A2045-99B9-4FE7-96C8-898BFF5223F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtentionMethod", "ExtentionMethod\ExtentionMethod.csproj", "{A98E268C-8751-419B-B355-8FC376FC0B01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtentionMethod", "ExtentionMethod\ExtentionMethod.csproj", "{A98E268C-8751-419B-B355-8FC376FC0B01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListAndLINQ", "ListAndLINQ\ListAndLINQ.csproj", "{C261B3B0-F47D-4271-89FB-6C0B6E833D33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListAndLINQ", "ListAndLINQ\ListAndLINQ.csproj", "{C261B3B0-F47D-4271-89FB-6C0B6E833D33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTap", "BaiTap\BaiTap.csproj", "{01F672B7-8152-4020-A87B-24C6810FDAD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", "{8F3B9D7D-0DAE-447E-AD12-F1F34A06C400}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{C261B3B0-F47D-4271-89FB-6C0B6E833D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C261B3B0-F47D-4271-89FB-6C0B6E833D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C261B3B0-F47D-4271-89FB-6C0B6E833D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01F672B7-8152-4020-A87B-24C6810FDAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F672B7-8152-4020-A87B-24C6810FDAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F672B7-8152-4020-A87B-24C6810FDAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F672B7-8152-4020-A87B-24C6810FDAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F3B9D7D-0DAE-447E-AD12-F1F34A06C400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3B9D7D-0DAE-447E-AD12-F1F34A06C400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3B9D7D-0DAE-447E-AD12-F1F34A06C400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3B9D7D-0DAE-447E-AD12-F1F34A06C400}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
