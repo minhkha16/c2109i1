@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\c2109i1\CShap\DelegaleCSharp\bin\Debug\net7.0\DelegaleCSharp.exe
+C:\Users\ADMIN\source\repos\c2109i1\CShap\DelegaleCSharp\bin\Debug\net7.0\DelegaleCSharp.deps.json
+C:\Users\ADMIN\source\repos\c2109i1\CShap\DelegaleCSharp\bin\Debug\net7.0\DelegaleCSharp.runtimeconfig.json
+C:\Users\ADMIN\source\repos\c2109i1\CShap\DelegaleCSharp\bin\Debug\net7.0\DelegaleCSharp.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\DelegaleCSharp\bin\Debug\net7.0\DelegaleCSharp.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CShap\DelegaleCSharp\obj\Debug\net7.0\DelegaleCSharp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\DelegaleCSharp\obj\Debug\net7.0\DelegaleCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\c2109i1\CShap\DelegaleCSharp\obj\Debug\net7.0\DelegaleCSharp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\DelegaleCSharp\obj\Debug\net7.0\DelegaleCSharp.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\c2109i1\CShap\DelegaleCSharp\obj\Debug\net7.0\DelegaleCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\DelegaleCSharp\obj\Debug\net7.0\DelegaleCSharp.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\DelegaleCSharp\obj\Debug\net7.0\refint\DelegaleCSharp.dll
+C:\Users\ADMIN\source\repos\c2109i1\CShap\DelegaleCSharp\obj\Debug\net7.0\DelegaleCSharp.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CShap\DelegaleCSharp\obj\Debug\net7.0\DelegaleCSharp.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\c2109i1\CShap\DelegaleCSharp\obj\Debug\net7.0\ref\DelegaleCSharp.dll
