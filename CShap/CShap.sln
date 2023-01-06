@@ -53,9 +53,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingTuple", "Tuple\UsingTu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{7FBD9309-B81C-4B8E-B7FD-2FE75949C72E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp2", "WinFormsApp2\WinFormsApp2.csproj", "{8811C164-584F-4E02-BB09-C540F7DD9E4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp2", "WinFormsApp2\WinFormsApp2.csproj", "{8811C164-584F-4E02-BB09-C540F7DD9E4F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{4837EEBF-8241-4E4B-A7F8-B0E61C41B08D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2", "WindowsFormsApp2\WindowsFormsApp2.csproj", "{15DA7C11-F60F-4C34-A10D-60DF68D9FAF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{4837EEBF-8241-4E4B-A7F8-B0E61C41B08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4837EEBF-8241-4E4B-A7F8-B0E61C41B08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4837EEBF-8241-4E4B-A7F8-B0E61C41B08D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15DA7C11-F60F-4C34-A10D-60DF68D9FAF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DA7C11-F60F-4C34-A10D-60DF68D9FAF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DA7C11-F60F-4C34-A10D-60DF68D9FAF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DA7C11-F60F-4C34-A10D-60DF68D9FAF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
